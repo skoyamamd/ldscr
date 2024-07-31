@@ -56,7 +56,7 @@ fx () {
   rm ../tmp/UKBB.${POP}.l2.ldscore.hg38.vcf.gz.tbi
   rm ../tmp/UKBB.${POP}.l2.ldscore.hg19.{ref,bed}
   rm ../tmp/UKBB.${POP}.l2.ldscore.hg19.rejected.vcf.gz
-  rm ../tmp/UKBB.${POP}.l2.ldscore.hg19tohg38.linker
+  # rm ../tmp/UKBB.${POP}.l2.ldscore.hg19tohg38.linker
 
 }
 
